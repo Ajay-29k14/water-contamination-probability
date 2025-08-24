@@ -1,9 +1,6 @@
-fastapi
-uvicorn[standard]
-scikit-learn
+fastapi==0.110.0
+uvicorn[standard]==0.29.0
 numpy
-pandas
 joblib
-python-multipart
-python-dotenv
-python-dateutil
+scikit-learn
+pandas
